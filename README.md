@@ -18,8 +18,6 @@
 
 - 🔍 **SCRYCLI** — An AI-powered CLI for debugging, AI error detection, and UX-focused dev workflows.
 - 🔐 **SaveIt** — Secure password manager with encryption and minimal UI.
-- 🤖 **Interview AI SaaS** *(WIP)* — Practice mock interviews with AI + feedback engine.
-- 🎨 **Frontend Systems** — Clean React + Tailwind UIs with animation and mobile-first design.
 
 ---
 
